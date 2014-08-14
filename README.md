@@ -1,4 +1,5 @@
 nupurkapoor
 ===========
 
-Personal Space to try random JS libraries, and hopefully create something sensible with it.
+Nupur Kapoor
+Software Developer, Social Activist, Folk Dancer, Co-Founder of Women Who Code DC.
