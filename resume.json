@@ -1,0 +1,191 @@
+{
+  "basics": {
+    "name": "Nupur Kapoor",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "nupurk15@gmail.com",
+    "phone": "(202) 550-1956",
+    "website": "",
+    "summary": "An ambitious developer with proven track record of finding the most effective technology solutions and meet client’s expectations. Well-organized, communicable, inquisitive and self-learner. Understands both user expectations and has the passion to transform ideas into products. Software Developer, Social Activist, Folk Dancer, Co-Founder of Women Who Code DC.",
+    "location": {
+      "address": "1301 N Courthouse Rd Apt 903",
+      "postalCode": "VA 22201",
+      "city": "Arlington",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@kapoornupur",
+        "url": "https://twitter.com/kapoornupur"
+      },
+      {
+        "network": "Github",
+        "username": "nupurkapoor",
+        "url": "https://github.com/nupurkapoor"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Beaconfire",
+      "position": "Software Engineer",
+      "website": "www.beaconfire.com",
+      "startDate": "2012-07-05",
+      "endDate": "2012-07-05",
+      "summary": "Full stack web developer responsible for building responsive websites, extend existing sites and online campaign applications either in a team environment or independently",
+      "highlights": [
+        "Day to day work involves working with PHP, Blackbaud API, JavaScript, MySQL and MongoDB to redesign and architect responsive websites.",
+        "Cross platform mobile application development, for iOS and Android, using PhoneGap, node.js, MongoDB, Parse.",
+        "Created an online form builder and inline editor using JavaScript, node.js and MongoDB. A simple drag and drop fields to form interface with dual language support, hierarchical questionnaire capability, embeddable form-code creation, integration with google analytics and Optimizely to track responses.",
+        "Integrating external applications like email marketing tools, social media sites and integrate with back-end membership or donation systems. ",
+        "PHP scripts to create interactive analytic dashboards in SiSense Reporting Tool by integrating data from different data sources and platforms. "
+      ]
+    },
+    {
+      "company": "CCC Solutions",
+      "position": "Software Engineer (Intern)",
+      "website": "",
+      "startDate": "2011-05-01",
+      "endDate": "2012-05-01",
+      "summary": "",
+      "highlights": [
+        "Server management, maintaining existing MySQL databases, designing new features for existing websites, design and develop databases in MySQL and SQL Server 2008",
+        "Interactive front end development, integration with merchants like PayPal and Merchant One. Social media integration with Facebook, Twitter, Meetup APIs.",
+        "Designing database triggers and indexing. Designing and generate reports."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "SOS",
+      "position": "Student Volunteer",
+      "website": "http://www.soschildrensvillages.in/",
+      "startDate": "2000-04-01",
+      "endDate": "2006-04-01",
+      "summary": "SOS Children's Villages is an independent, non-governmental, social development organisation that provides family-based care for children in India since 1964. It advocates the concerns, rights and needs of children.",
+      "highlights": [
+        "Awarded 'Student Volunteer of the Year' consecutively for 3yrs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "George Washingto University",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2010-08-01",
+      "endDate": "2012-05-01",
+      "gpa": "3.8"
+    },
+    {
+      "institution": "Rajiv Gandhi Technical University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2006-06-01",
+      "endDate": "2010-05-01",
+      "gpa": "3.4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "JAVA",
+        "Ruby",
+        "JavaScript",
+        "node.js"
+      ]
+    },
+    {
+      "name": "NoSQL and SQL",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "CouchDB",
+        "Redis",
+        "PIDI",
+        "Cassandra"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "Ember.js",
+        "Backbone",
+        "CodeIgniter",
+        "Ruby on Rails"
+      ]
+    },
+    
+    {
+      "name": "CMSs",
+      "level": "Master",
+      "keywords": [
+        "ezPublish",
+        "Drupal",
+        "Wordpress",
+        "Convio"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "keywords": [        
+        "PhoneGap",
+        "Parse",
+        "Putty",
+        "Google Analytics/Google tag manager",
+        "JIRA/Trello",
+        "Confluence",
+        "Github/Bitbucket/GitLab",
+        "Unified Modelling Process",
+        "Social media and Google APIs"
+      ]
+    },
+    {
+      "name": "Testing Tools",
+      "level": "Master",
+      "keywords": [
+        "Optimizely",
+        "Cross platform testing",
+        "Selenium automated testing",
+        "RSpec"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Punjabi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Dancing"
+    },
+    {
+      "name": "Cooking"
+    },
+    {
+      "name": "Travelling"
+    },
+    {
+      "name": "Reading"
+    }
+  ]
+}
