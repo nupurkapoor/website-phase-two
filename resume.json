@@ -110,10 +110,7 @@
         "MySQL",
         "PostgreSQL",
         "MongoDB",
-        "CouchDB",
-        "Redis",
         "PIDI",
-        "Cassandra"
       ]
     },
     {
@@ -133,8 +130,9 @@
       "keywords": [
         "ezPublish",
         "Drupal",
-        "Wordpress",
-        "Convio"
+        "Craft",
+        "Blackbaud",
+        "Wordpress"
       ]
     },
     {
@@ -146,9 +144,7 @@
         "Putty",
         "Google Analytics/Google tag manager",
         "JIRA/Trello",
-        "Confluence",
         "Github/Bitbucket/GitLab",
-        "Unified Modelling Process",
         "Social media and Google APIs"
       ]
     },
