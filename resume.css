@@ -132,7 +132,7 @@ h4 span:first-child {
   }
   .strike-through span,
   .strike-through a {
-    background: #fff;
+    background: #E0E4CC;
     position: absolute;
   }
   .strike-through span:first-child {
