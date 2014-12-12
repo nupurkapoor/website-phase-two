@@ -6,11 +6,11 @@ body {
   margin: 0 0 80px;
 }
 a {
-  color: #70AB8F;
+  color: #3FBAD8;
 }
 a:focus,
 a:hover { 
-  color: #3FBAD8;
+  color: #FFFF33; 
   text-decoration: none;
   font-weight: bold;
 }
