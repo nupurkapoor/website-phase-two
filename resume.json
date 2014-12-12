@@ -4,8 +4,6 @@
     "label": "Software Developer",
     "picture": "",
     "email": "nupurk15@gmail.com",
-    "phone": "(202) 550-1956",
-    "website": "",
     "summary": "An ambitious developer with proven track record of finding the most effective technology solutions and meet client’s expectations. Well-organized, communicable, inquisitive and self-learner. Understands both user expectations and has the passion to transform ideas into products. Software Developer, Social Activist, Folk Dancer, Co-Founder of Women Who Code DC.",
     "location": {
       "address": "1301 N Courthouse Rd Apt 903",
@@ -19,6 +17,11 @@
         "network": "Twitter",
         "username": "@kapoornupur",
         "url": "https://twitter.com/kapoornupur"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nupurkapoor",
+        "url": "https://www.linkedin.com/in/nupurkapoor"
       },
       {
         "network": "Github",
