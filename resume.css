@@ -1,7 +1,7 @@
  @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
  @import url(http://fonts.googleapis.com/css?family=Domine:400);
 body {
-  background: #E4DBBF;
+  background: #EBEBEB;
   font-family: Domine, sans-serif;
   margin: 0 0 80px;
 }
@@ -10,7 +10,7 @@ a {
 }
 a:focus,
 a:hover { 
-  color: #DC5B21;
+  color: #D4EDF4;
   text-decoration: none;
   font-weight: bold;
 }
@@ -133,7 +133,7 @@ h4 span:first-child {
   }
   .strike-through span,
   .strike-through a {
-    background: #E4DBBF;
+    background: #EBEBEB;
     position: absolute;
   }
   .strike-through span:first-child {
