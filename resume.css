@@ -2,16 +2,16 @@
   http://fonts.googleapis.com/css?family=Lato:400,700
 );
 body {
-  background: #FAF9F7;
+  background: #EBEBEB;
   font-family: Lato, sans-serif;
   margin: 0 0 80px;
 }
 a {
-  color: #1FDA9A;
+  color: #D4EDF4;
 }
 a:focus,
 a:hover {
-  color: #E8B71A;
+  color: #F6C2C2;
   text-decoration: none;
   font-weight: bold;
 }
@@ -73,22 +73,22 @@ h4 span:first-child {
   margin-top: 30px;
 }
 #header {
-  background: #1FDA9A;
+  background: #D4EDF4;
   padding: 50px 0;
   margin-bottom: 30px;
 }
-#header h2 {
-  color: #DB3340;
-  font-size: 24px;
-}
 #header h1 {
-  color: #DB3340;
-  font-size: 28px;
+  color: #E2F2D5;
+  font-size: 32px;
   margin-top: -4px;
 }
+#header h2 {
+  color: #E2F2D5;
+  font-size: 28px;
+}
 #content h3 {
-  color: #FA6900;
-  font-size: 26px;
+  color: #E2F2D5;
+  font-size: 28px;
   margin-top: -4px;
 }
 #content aside {
@@ -132,7 +132,7 @@ h4 span:first-child {
   }
   .strike-through span,
   .strike-through a {
-    background: #FAF9F7;
+    background: #EBEBEB;
     position: absolute;
   }
   .strike-through span:first-child {
