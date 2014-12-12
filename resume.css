@@ -1,7 +1,8 @@
  @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
  @import url(http://fonts.googleapis.com/css?family=Domine:400);
 body {
-  background: #EBEBEB;
+  /*background: #EBEBEB;*/
+  background: #fff;
   font-family: Domine, sans-serif;
   margin: 0 0 80px;
 }
@@ -133,7 +134,8 @@ h4 span:first-child {
   }
   .strike-through span,
   .strike-through a {
-    background: #EBEBEB;
+    /*background: #EBEBEB;*/
+    background: #fff;
     position: absolute;
   }
   .strike-through span:first-child {
