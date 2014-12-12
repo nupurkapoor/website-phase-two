@@ -2,17 +2,16 @@
   http://fonts.googleapis.com/css?family=Lato:400,700
 );
 body {
-  /*background: #EBEBEB;*/
-  background: #FFF;
+  background: #E4DBBF;
   font-family: Lato, sans-serif;
   margin: 0 0 80px;
 }
 a {
-  color: #D4EDF4;
+  color: #70AB8F;
 }
 a:focus,
-a:hover {
-  color: #F6C2C2;
+a:hover { 
+  color: #DC5B21;
   text-decoration: none;
   font-weight: bold;
 }
@@ -74,7 +73,7 @@ h4 span:first-child {
   margin-top: 30px;
 }
 #header {
-  background: #D4EDF4;
+  background: #DC5B21;
   padding: 50px 0;
   margin-bottom: 30px;
 }
@@ -135,7 +134,7 @@ h4 span:first-child {
   }
   .strike-through span,
   .strike-through a {
-    background: #EBEBEB;
+    background: #E4DBBF;
     position: absolute;
   }
   .strike-through span:first-child {
