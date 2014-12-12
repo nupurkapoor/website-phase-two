@@ -11,7 +11,7 @@ a {
 }
 a:focus,
 a:hover { 
-  color: #FFFF33; 
+  color: #FAC946; 
   text-decoration: none;
   font-weight: bold;
 }
@@ -89,7 +89,7 @@ h4 span:first-child {
   font-weight: bold;
 }
 #content h3 {
-  color: #70AB8F;
+  color: #4EA88F;
   font-size: 28px;
   margin-top: -4px;
 }
