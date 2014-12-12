@@ -77,18 +77,18 @@ h4 span:first-child {
   margin-bottom: 30px;
 }
 #header h1 {
-  color: #70AB8F;
+  color: #fff;
   font-size: 32px;
   font-weight: bold;
   margin-top: -4px;
 }
 #header h2 {
-  color: #70AB8F;
+  color: #fff;
   font-size: 28px;
   font-weight: bold;
 }
 #content h3 {
-  color: #70AB8F;
+  color: #fff;
   font-size: 28px;
   margin-top: -4px;
 }
