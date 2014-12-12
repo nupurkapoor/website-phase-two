@@ -10,7 +10,7 @@ a {
 }
 a:focus,
 a:hover { 
-  color: #D4EDF4;
+  color: #3FBAD8;
   text-decoration: none;
   font-weight: bold;
 }
@@ -72,7 +72,7 @@ h4 span:first-child {
   margin-top: 30px;
 }
 #header {
-  background: #8C4646;
+  background: #3FBAD8;
   padding: 50px 0;
   margin-bottom: 30px;
 }
