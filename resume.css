@@ -124,7 +124,7 @@ h4 span:first-child {
   content: attr(href);
 }
 .email {
-  color: #FAC946;
+  color: #1ABC9C;
 }
 
 @media (min-width: 480px) {
